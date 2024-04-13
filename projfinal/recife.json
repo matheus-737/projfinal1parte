@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "Subestação 6100",
+    "lat": -8.378374,
+    "lng": -35.026100,
+    "data": "2024-04-01"
+  },
+  {
+    "nome": "Torre de Resfriamento 52",
+    "lat": -8.377917,
+    "lng": -35.021647,
+    "data": "2024-03-15"
+  },
+  {
+    "nome": "Setor de Destilação",
+    "lat": -8.381041,
+    "lng": -35.016281,
+    "data": "2024-03-20"
+  },
+  {
+    "nome": "Setor de Refino de Gás",
+    "lat": -8.383736,
+    "lng": -35.024220,
+    "data": "2024-04-05"
+  }
+]

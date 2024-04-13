@@ -1,0 +1,85 @@
+{
+    "background_color": "#ffffff",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "SafeZone",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "SafeZone",
+    "start_url": "/",
+    "theme_color": "#ffffff",
+    "icons": [
+      {
+        "src": "assets/icones/29.png",
+        "type": "image/png",
+        "sizes": "29x29"
+      },
+
+      {
+        "src": "assets/icones/40.png",
+        "type": "image/png",
+        "sizes": "40x40"
+      },
+  
+
+      {
+        "src": "assets/icones/58.png",
+        "type": "image/png",
+        "sizes": "58x58"
+      },
+
+      {
+        "src": "assets/icones/60.png",
+        "type": "image/png",
+        "sizes": "60x60"
+      },
+      
+      {
+        "src": "assets/icones/80.png",
+        "type": "image/png",
+        "sizes": "80x80"
+      },
+
+      {
+        "src": "assets/icones/87.png",
+        "type": "image/png",
+        "sizes": "87x87"
+      },
+
+      {
+        "src": "assets/icones/114.png",
+        "type": "image/png",
+        "sizes": "114x114"
+      },
+
+      {
+        "src": "assets/icones/120.png",
+        "type": "image/png",
+        "sizes": "120x120",
+        "purpose": "any maskable"
+      },
+
+      {
+        "src": "assets/icones/180.png",
+        "type": "image/png",
+        "sizes": "180x180"
+      },
+
+      {
+        "src": "assets/icones/180.png",
+        "type": "image/png",
+        "sizes": "180x180"
+      },
+
+      {
+        "src": "assets/icones/1024.png",
+        "type": "image/png",
+        "sizes": "1024x1024"
+      }
+     
+      
+    ],
+    "description": "SafeZone",
+    "lang": "pt",
+    "form_factor": "handheld"
+  }
